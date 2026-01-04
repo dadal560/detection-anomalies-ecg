@@ -35,3 +35,15 @@ Le modèle est un réseau de neurones de type **Auto-encodeur** composé de :
 Assurez-vous d'avoir Python installé ainsi que les bibliothèques suivantes :
 ```bash
 pip install pandas numpy matplotlib tensorflow scikit-learn
+```
+
+## Exécution
+### Clonez le dépôt :
+
+```bash
+git clone https://github.com/dadal560/detection-anomalies-ecg.git
+```
+### Ouvrez et exécutez le notebook ou le script principal :
+```bash
+jupyter notebook detection_anomalies_ecg.ipynb
+```
